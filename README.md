@@ -16,3 +16,8 @@ _MYMMMM9 _MM_  YMMM9MM_      MM        _MM_  _MM_      MM  YMMM9
                                                         by Y@s!n V@nd4y
                         
 0nly th3 0wn34 kn0w$ th3 answ34!
+
+#-With any way possible, use your best extracter tool to extract the programs.
+#-here are the tools that I recomend you to use;
+     =>7z.zip
+     =>Winrar
